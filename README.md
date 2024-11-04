@@ -1,4 +1,14 @@
-## Hi there 👋
+#👋 Hello, I'm Saumyadip Kundu!
+
+---
+
+# 👨‍💻 About Me...
+- 🌱 I’m a Collge Student. 
+- 🔭 I have a passion for exploring a wide range of topics within the vast expanse of knowledge. 
+
+### 📫 How to Reach Me
+- ✉️ **Email**: saumyaditkundu@gmail.com 
+- 🌐 **LinkdIn**: https://www.linkedin.com/in/saumyadip-kundu-178941265
 
 <!--
 **Saumyadipkundu2101/Saumyadipkundu2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
