@@ -3,7 +3,7 @@
 ---
 
 # 👨‍💻 About Me...
-- 🌱 I’m a Collge Student. 
+- 🌱 I’m a College Student. 
 - 🔭 I have a passion for exploring a wide range of topics within the vast expanse of knowledge. 
 
 ### 📫 How to Reach Me
